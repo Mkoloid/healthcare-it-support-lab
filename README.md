@@ -199,6 +199,11 @@ this pattern went anywhere near production:
   the cost of a login prompt on each visit.
 
 ---
+## Screenshots
+
+   ![RBAC test - access granted](screenshots/rbac-success.png)
+   ![RBAC test - access denied](screenshots/rbac-denied.png)
+---
 
 ## Skills demonstrated
 
